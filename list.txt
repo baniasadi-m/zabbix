@@ -1,0 +1,3 @@
+#scenario_name,url_check,step_name,status,severity,last_avg_count,Response_time,Failed_count_avg
+#598.ir,http://598.ir,first_page,200,4,3,0.8,5
+#snn.ir,http://snn.ir,first_page,200,4,3,0.8,5
