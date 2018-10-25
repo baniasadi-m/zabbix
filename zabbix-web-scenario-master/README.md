@@ -9,4 +9,4 @@ Syntax of options in file:
 
 
 Command run in bash:
-       python zabbix-scenarios.py  -u [admin_user] -p [password] -f [File_path]
+       python webcheck.py  -u [admin_user] -f [File_path] -g [zabbix_hostaname]
